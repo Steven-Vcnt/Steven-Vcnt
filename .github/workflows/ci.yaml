@@ -1,8 +1,7 @@
-name: ci 
+name: ci-ws
 on:
   push:
     branches:
-      - master 
       - main
 permissions:
   contents: write
