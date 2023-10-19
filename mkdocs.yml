@@ -14,6 +14,7 @@ theme:
 
 
 
+
   features:
     - navigation.tabs
     - navigation.tracking
@@ -65,3 +66,21 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra:
+  analytics:
+    provider: google
+    property: G-XBQX1WS9BR
+#plugins:
+#  - social:
+#      enabled: true
+#      cache: true
+#      cache_dir: .cache/plugins/social
+#      cards: true
+#      cards_dir: assets/images/social
+#      cards_layout_dir: layouts
+#      debug: true
+#      debug_on_build: false
+#      debug_grid: true
+#      debug_grid_step: 32
+#      debug_color: yellow
