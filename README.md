@@ -1,4 +1,8 @@
-Currently Data Engineer at Société Général. I am progressing in the area of Big Data and I am also interested in Marketing, Analytics, and Data Science.
+# Hey!
+
+My name is Steven, and I work as a Data Engineer for Société Générale where I work mainly on Python/SQL. 
+I am working on the Azure Data Science certification as I would like to develop ML engineering skills.
+
 
 <!--
 **Steven-Vcnt/Steven-Vcnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
