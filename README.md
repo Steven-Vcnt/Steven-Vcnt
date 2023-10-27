@@ -1,7 +1,8 @@
-### Hi there 👋
+Currently Data Engineer at Société Général. I am progressing in the area of Big Data and I am also interested in Marketing, Analytics, and Data Science.
 
 <!--
 **Steven-Vcnt/Steven-Vcnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
