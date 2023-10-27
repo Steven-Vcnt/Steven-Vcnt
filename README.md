@@ -1,9 +1,11 @@
-# Hey!
+# Hello!
 
-My name is Steven, and I work as a Data Engineer for Société Générale where I work mainly on Python/SQL. 
+I'm currently working as a Data Engineer at Société Générale where I use mainly Python/SQL. 
+I'm also a lecturer at ESC Dijon (Business School) for the MSc Data Science & Organizational Behaviour where I am teaching about Cloud computing and data tools.
 I am working on the Azure Data Science certification as I would like to develop ML engineering skills.
 
-
+You can contact me through LinkedIn ([linkedin.com/in/vincent-steven](https://www.linkedin.com/in/vincent-steven/)) or by mail ([steven.vincentGNR@gmail.com](steven.vincentGNR@gmail.com)).
+You can also visit my [personal website](https://steven-vcnt.github.io/Steven-Vcnt/) where you will find more information about me and some data content.
 <!--
 **Steven-Vcnt/Steven-Vcnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
