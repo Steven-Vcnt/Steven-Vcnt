@@ -8,6 +8,6 @@ If you are a BSB student, you can directly go to the course section :
 
 If you want to know more about me, you can access the section About:
 
-[About](./About/index.md){:target="_blank" .md-button .md-button--primary}
+[About](./About (in progress)/index.md){:target="_blank" .md-button .md-button--primary}
 
 ---
