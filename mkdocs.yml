@@ -67,10 +67,7 @@ extra:
   analytics:
     provider: google
     property: G-XBQX1WS9BR
-#nav:
-#  - Home: index.md
-#  - BSB Courses: index.md
-#  - About: index.md
+
 #plugins:
 #  - social:
 #      enabled: true
