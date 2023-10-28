@@ -10,10 +10,6 @@ theme:
     repo: fontawesome/brands/github
     edit: material/pencil 
     view: material/eye
-  
-
-
-
 
   features:
     - navigation.tabs
@@ -71,6 +67,10 @@ extra:
   analytics:
     provider: google
     property: G-XBQX1WS9BR
+#nav:
+#  - Home: index.md
+#  - BSB Courses: index.md
+#  - About: index.md
 #plugins:
 #  - social:
 #      enabled: true
