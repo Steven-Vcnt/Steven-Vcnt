@@ -68,7 +68,10 @@ extra:
     provider: google
     property: G-XBQX1WS9BR
 
-#plugins:
+plugins:
+  - blog:
+      archive: False
+      post_excerpt_max_categories: 2
 #  - social:
 #      enabled: true
 #      cache: true
