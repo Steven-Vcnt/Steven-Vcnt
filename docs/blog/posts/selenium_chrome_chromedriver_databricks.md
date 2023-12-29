@@ -7,7 +7,7 @@ categories:
   - Web Scraping
 ---
 
-# How to use Selenium package on Databricks
+# How to use the Selenium package on Databricks
 
 ## Introduction
 
@@ -58,9 +58,9 @@ sudo apt-get install -f -y
 ```
 
 !!! note
-    %sh [magic command](https://docs.databricks.com/en/notebooks/notebooks-code.html#mix-languages) enables you to execute shell command in a Databricks notebook.
+    %sh [magic command](https://docs.databricks.com/en/notebooks/notebooks-code.html#mix-languages) enables you to execute shell commands in a Databricks notebook.
 
-## Create a Python function to setup your driver
+## Create a Python function to set your driver
 
 Now, Google Chrome & Google Chromedriver are installed. The next step is to configure our selenium driver to be able to browse and fetch (Web Scrape) data from a website. The function below enables you to create a selenium driver. It will be called to retrieve the HTML code of the webpage you want.
 

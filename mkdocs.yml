@@ -6,6 +6,8 @@ edit_uri: edit/main/docs/
 
 theme:
   name: material
+  #logo: assets/logo_snvt.png
+  #favicon: assets/logo_snvt.png
   icon: 
     repo: fontawesome/brands/github
     edit: material/pencil 
@@ -30,6 +32,7 @@ theme:
     - navigation.footer
     - navigation.indexes
     - content.action.edit
+    - navigation.sections
     
 
 
